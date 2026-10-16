@@ -4,6 +4,7 @@
 This project analyzes **57,251 market records** across **97 Houston zip codes** (spanning 2012 to 2026) to evaluate time-series price velocity and inventory friction. By engineering month-over-month price change metrics and tracking Days on Market (DOM) acceleration, this pipeline isolates real estate liquidity shifts across core Houston sub-markets.
 
 - **Live Dashboard:** [Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile/abel.rodriguez7535/viz/GreaterHoustonRealEstateMarketVelocityFrictionAnalysis/Dashboard1)
+- ![Houston Real Estate Dashboard Preview](dashboard_preview.png)
 - **Tech Stack:** Python, Pandas, DuckDB (ANSI SQL), Tableau Public, Google Colab
 
 ---
